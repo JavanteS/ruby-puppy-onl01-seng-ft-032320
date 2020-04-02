@@ -21,4 +21,8 @@ class Dog
   
   def save
   end
+  
+  def name
+    @name
+  end
 end
